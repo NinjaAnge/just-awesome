@@ -16,3 +16,9 @@ css grid playground
 https://alialaa.github.io/css-grid-cheat-sheet/
 css grid 
 https://tympanus.net/codrops/css_reference/grid/
+
+
+
+
+js Excercise
+http://www.asmarterwaytolearn.com/js/index-of-exercises.html
