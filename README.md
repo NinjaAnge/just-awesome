@@ -20,5 +20,6 @@ https://tympanus.net/codrops/css_reference/grid/
 
 
 
-js Excercise
+#js Excercise
 http://www.asmarterwaytolearn.com/js/index-of-exercises.html
+https://www.w3resource.com/javascript-exercises/
