@@ -58,6 +58,9 @@ landing page of a ecomerce site
 javascript usage will be counted as bonus points
 
 
-
+css tabs 
 https://codepen.io/Rogstaa/pen/mLPVEb?editors=1100
+
+css grid example
+https://codepen.io/Rogstaa/pen/oqQovR
 
