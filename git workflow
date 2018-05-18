@@ -1,0 +1,26 @@
+•	Setup
+  o	make your own fork of the main repo on github
+  o	git clone https://github.com/github-username/project-name.git
+  o	cd project-name
+  o	git remote add upstream https://github.com/tetherpad/project-name.git
+  o	git remote -v
+•	Develop
+  o	git checkout master
+  o	git pull upstream master:master
+  o	git checkout -b my-branch
+  o	make local changes
+  o	git add relevant-file
+  o	git status
+  o	git diff --cached
+  o	git commit -m "Moooooooo Biatch"
+  o	rinse, repeat
+•	Push
+  o	git checkout master
+  o	git pull upstream master:master
+  o	git checkout my-branch
+  o	git rebase master
+  o	git push origin my-branch
+  o	review diff on github and submit
+•	Code Review
+  o	discuss pull request on github
+  o	merge if good, if not, go back to Develop
