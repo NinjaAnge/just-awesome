@@ -1,0 +1,41 @@
+Identity
+    •	Users user 
+      o	Firstname : string
+      o	Lastname : string
+      o	Phone : string
+      o	Email :string
+      o	Password : string
+      o	Wishlist : map
+    •	Adress:
+      •	Adress : string
+      •	Post number : integer
+      •	Country : string
+      •	City	:string
+Identity
+    • Billings billing
+      • Card number: string
+      •	Expiry month :integer
+      •	Expiry year : integer
+      •	Card Holder : string
+      •	Ccv	: integer
+      •	Card type : string
+      •	Invoice address: int
+
+Products 
+    • Products product
+      •	Name : string
+      •	Image : map
+      •	Product number: string
+      •	Summary text: string 
+      •	Base Price: integer / decimal
+      •	Lager status : integer
+      •	Supplier: integer
+      •	Alternative products : integer
+Invoice 
+    • Invoices invoice
+      •	Total sum : decimal
+      •	Product id : map
+      •	User Id : integer
+      •	Shipping address: integer
+      •	Invoice address : integer
+      •	Status: string
