@@ -68,3 +68,8 @@ https://codepen.io/Rogstaa/pen/oqQovR
 evalia 
 http://www.evalia.no/eval/
 
+Ecto vids
+leveling up 
+https://www.youtube.com/watch?v=QE7bpqpDoKo
+Thinking in ecto
+https://www.youtube.com/watch?v=YQxopjai0CU
