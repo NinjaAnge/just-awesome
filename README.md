@@ -73,3 +73,7 @@ leveling up
 https://www.youtube.com/watch?v=QE7bpqpDoKo
 Thinking in ecto
 https://www.youtube.com/watch?v=YQxopjai0CU
+
+
+
+https://medium.com/@chipdean/phoenix-array-input-field-implementation-7ec0fe0949d
